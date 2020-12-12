@@ -16,3 +16,6 @@ In this project I have explored President Trump's tweet from three different dat
 * Exporatory data analysis (EDA)
 * Sentiment analysis
 * Conslusion
+
+
+
